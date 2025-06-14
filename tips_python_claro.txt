@@ -1,0 +1,30 @@
+# Consejos para Escribir Código Python Más Claro y Fácil de Entender
+
+1. **Usa nombres descriptivos para las variables**
+   - Elige nombres que expliquen claramente qué almacena la variable.
+   - Ejemplo: usa `contador_usuarios` en vez de `count`.
+
+2. **Agrega comentarios explicativos**
+   - Explica qué hace cada parte importante del código.
+   - Los comentarios ayudan a otros (y a ti mismo en el futuro) a entender el propósito del código.
+
+3. **Evita usar listas paralelas**
+   - Si necesitas relacionar datos, usa diccionarios en vez de dos listas separadas.
+   - Ejemplo: `{ 'Alice': 2, 'Bob': 1 }` es más claro que dos listas.
+
+4. **Estructura tu código en bloques lógicos**
+   - Usa espacios y saltos de línea para separar partes del código.
+   - Esto mejora la legibilidad.
+
+5. **No tengas miedo de usar variables temporales**
+   - Si una operación es compleja, guárdala en una variable con un nombre claro antes de usarla.
+
+6. **Prueba tu código con ejemplos simples**
+   - Antes de complicarlo, asegúrate de que funciona con casos básicos.
+
+7. **Lee y aprende de otros códigos**
+   - Ver cómo otros resuelven problemas te ayuda a mejorar tu estilo.
+
+---
+
+Recuerda: ¡El código debe ser fácil de leer para humanos, no solo para la computadora!
